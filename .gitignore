@@ -1,0 +1,6 @@
+.auth/
+loop-backup/
+loop-md/
+node_modules/
+.DS_Store
+test-output.*

@@ -1,0 +1,19 @@
+{
+  "name": "loop-to-markdown",
+  "version": "1.0.0",
+  "description": "Scrape Microsoft Loop workspace pages to local Markdown files with images",
+  "type": "module",
+  "scripts": {
+    "scrape": "node scrape.mjs",
+    "scrape:headed": "node scrape.mjs --headed",
+    "parse": "node parse.mjs",
+    "test:single": "node test-single.mjs"
+  },
+  "keywords": ["microsoft-loop", "markdown", "scraper", "playwright", "loop-to-markdown"],
+  "author": "lastcoolnameleft",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^27.0.1",
+    "playwright": "^1.61.0"
+  }
+}
