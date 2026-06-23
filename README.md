@@ -116,4 +116,4 @@ The Markdown conversion logic is adapted from [oztalha/loop-to-markdown](https:/
 
 ## License
 
-MIT
+GPL-3.0 — see [LICENSE](LICENSE). The Markdown conversion logic is adapted from [oztalha/loop-to-markdown](https://github.com/oztalha/loop-to-markdown) (GPL-3.0).
